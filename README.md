@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Yaswanth Naidu Yalla
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+AI+Engineer;Building+the+Future+with+Code;Backend+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+AI+Engineer" alt="Typing SVG" />
 
 </div>
 
